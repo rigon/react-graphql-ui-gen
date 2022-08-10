@@ -1,3 +1,1 @@
-import GraphQLRenderer from "./GraphQLRenderer";
-
-export default GraphQLRenderer;
+export * from "./GraphQLRenderer";
